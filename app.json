@@ -1,0 +1,25 @@
+{
+  "id": "6252e7d9-3fec-4a8f-b967-7688a45a7497",
+  "name": "ALProject10",
+  "publisher": "Default publisher",
+  "version": "18.1.0.2021102301",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 55100,
+      "to": 55149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}

@@ -1,0 +1,5 @@
+.alpackages/Microsoft_Base Application_19.0.29894.30693.app
+.vscode/.alcache/*.*
+.alpackages/*.*
+*.app
+.vscode/*.*
